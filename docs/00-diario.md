@@ -17,3 +17,8 @@ Arquivo: docs/01-adrs/ADR-003-politica-de-dados-e-privacidade.md
 
 Decisão: definir arquitetura da “caixa-preta” em camadas (coleta, pré-processamento, correlação, enriquecimento e saída) para o MSS.
 Arquivo: docs/01-adrs/ADR-004-arquitetura-caixa-preta.md
+
+## 2026-02-05 — ADR-005
+
+Decisão: definir métricas de avaliação focadas em redução de ruído, qualidade da detecção, impacto operacional e custo computacional.
+Arquivo: docs/01-adrs/ADR-005-metricas-de-avaliacao.md
