@@ -1,0 +1,22 @@
+# Dados sensíveis / grandes
+data/*
+!data/.gitkeep
+
+# Capturas e logs brutos
+*.pcap
+*.pcapng
+*.log
+*.eve.json
+*.jsonl
+
+# Segredos
+.env
+*.key
+*credentials*
+*token*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
