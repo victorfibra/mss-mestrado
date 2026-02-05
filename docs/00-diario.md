@@ -7,3 +7,8 @@ Arquivo: docs/01-adrs/ADR-001-nao-usar-llm-na-correlacao.md
 
 Decisão: correlação baseada em janelas temporais e agregação para reduzir ruído e manter custo computacional baixo.
 Arquivo: docs/01-adrs/ADR-002-janelas-temporais-e-agregacao.md
+
+## 2026-02-05 — ADR-003
+
+Decisão: definir política clara de dados, separando dados reais sensíveis, dados anonimizados e dados sintéticos para garantir privacidade e reprodutibilidade.
+Arquivo: docs/01-adrs/ADR-003-politica-de-dados-e-privacidade.md
