@@ -12,3 +12,8 @@ Arquivo: docs/01-adrs/ADR-002-janelas-temporais-e-agregacao.md
 
 Decisão: definir política clara de dados, separando dados reais sensíveis, dados anonimizados e dados sintéticos para garantir privacidade e reprodutibilidade.
 Arquivo: docs/01-adrs/ADR-003-politica-de-dados-e-privacidade.md
+
+## 2026-02-05 — ADR-004
+
+Decisão: definir arquitetura da “caixa-preta” em camadas (coleta, pré-processamento, correlação, enriquecimento e saída) para o MSS.
+Arquivo: docs/01-adrs/ADR-004-arquitetura-caixa-preta.md
